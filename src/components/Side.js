@@ -4,6 +4,7 @@ const Side = (props) => {
   return (
     <div>
       { props.sides.join(", ") }
+
     </div>
   )
 }
